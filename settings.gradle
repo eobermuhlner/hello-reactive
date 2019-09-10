@@ -1,0 +1,5 @@
+rootProject.name = 'hello-reactive'
+
+include 'ch.obermuhlner.reactive.domain'
+include 'ch.obermuhlner.reactive.client'
+include 'ch.obermuhlner.reactive.server'
